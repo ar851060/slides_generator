@@ -97,5 +97,5 @@ B--> X
 - size_picture: only support 128x128, 256x256, and 512x512.
 
 ## Results
-[Results](https://imgur.com/QczmwKb)
-The partial template is in `new_template.pptx`
+- [Results](https://imgur.com/QczmwKb)
+- The partial template is in `new_template.pptx`
